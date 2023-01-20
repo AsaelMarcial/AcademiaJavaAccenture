@@ -48,9 +48,14 @@ public class Estacionamiento{
         }
     }
 
-    public void salir(Vehiculo vehiculo){
-        vehiculo.salir();
-        ocupados--;
+    public void salir(Vehiculo vehiculo) {
+        if (vehiculosEstacionados.contains(vehiculo)) {
+            vehiculosEstacionados.remove(vehiculo);
+            ocupados--;
+            vehiculo.salir();
+        } else {
+            System.out.println("El vehiculo no esta estacionado");
+        }
     }
 
 }
