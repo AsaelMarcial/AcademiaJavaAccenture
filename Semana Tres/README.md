@@ -1,7 +1,7 @@
 <br />
 <div align="center">
-  <a href="https://companieslogo.com/img/orig/ACN-cce5b411.png?t=1633439499">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a>
+    <img src="https://companieslogo.com/img/orig/ACN-cce5b411.png?t=1633439499" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Actividades de la semana tres, Academia Java por Xideral</h3>
