@@ -33,9 +33,9 @@
 ## Spring Batch
 
 ### Estructura
-[![Estructura del proyecto]](https://github.com/AsaelMarcial/AcademiaJavaXideral/blob/main/Semana%20Tres/imagenes/estructura-espanol-springbatch.jpeg)
+![Estructura del proyecto](https://github.com/AsaelMarcial/AcademiaJavaXideral/blob/main/Semana%20Tres/imagenes/estructura-espanol-springbatch.jpeg)
 
 ### Base de datos
-[![Base de datos]](https://github.com/AsaelMarcial/AcademiaJavaXideral/blob/main/Semana%20Tres/imagenes/tablacliente-springbatch.jpeg)
+![Base de datos](https://github.com/AsaelMarcial/AcademiaJavaXideral/blob/main/Semana%20Tres/imagenes/tablacliente-springbatch.jpeg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
