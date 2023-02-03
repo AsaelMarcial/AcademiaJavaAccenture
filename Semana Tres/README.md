@@ -12,14 +12,7 @@
 <details>
   <summary>Tabla de contenido</summary>
   <ol>
-    <li>
-      <a href="#spring-batch">Proyecto Clientes Spring Batch en espanol</a>
-      <ul>
-        <li><a href="#estructura">Estructura del proyecto</a></li>
-        <li><a href="#data-base">Base de datos</a></li>
-      </ul>
-    </li>
-    <li>
+  <li>
       <a href="#spring-mvc">Proyecto Vehiculos Spring MVC con pruebas unitarias con JUit5</a>
       <ul>
         <li><a href="#entidad-relacion">Diagrama Entidad-Relacion</a></li>
@@ -27,8 +20,26 @@
         <li><a href="#pruebas">Pruebas Unitarias</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#spring-batch">Proyecto Clientes Spring Batch en espanol</a>
+      <ul>
+        <li><a href="#estructura">Estructura del proyecto</a></li>
+        <li><a href="#data-base">Base de datos</a></li>
+      </ul>
+    </li>
   </ol>
 </details>
+
+## Spring MVC
+### Diagrama Entidad-Relacion
+![Diagrama Entidad-Relacion](https://github.com/AsaelMarcial/AcademiaJavaXideral/blob/main/Semana%20Tres/imagenes/modeloEntidadRelacion-spring-mvc.jpeg)
+
+### Imagenes del proyecto
+![inicio](https://github.com/AsaelMarcial/AcademiaJavaXideral/blob/main/Semana%20Tres/imagenes/inicio-springmvc.jpeg)
+
+![personas](https://github.com/AsaelMarcial/AcademiaJavaXideral/blob/main/Semana%20Tres/imagenes/listapersonas-springmvc.jpeg)
+
+![vehiculos](https://github.com/AsaelMarcial/AcademiaJavaXideral/blob/main/Semana%20Tres/imagenes/vehiculos-springmvc.jpeg)
 
 ## Spring Batch
 
