@@ -35,11 +35,15 @@
 ![Diagrama Entidad-Relacion](https://github.com/AsaelMarcial/AcademiaJavaXideral/blob/main/Semana%20Tres/imagenes/modeloEntidadRelacion-spring-mvc.jpeg)
 
 ### Imagenes del proyecto
+Faltan pruebas unitarias del metodo getPersonas que regresa una lista de personas metiante el ORM Hibernate
+![inicio](https://github.com/AsaelMarcial/AcademiaJavaXideral/blob/main/Semana%20Tres/imagenes/pruebasunitarias-springmvc.jpeg)
 ![inicio](https://github.com/AsaelMarcial/AcademiaJavaXideral/blob/main/Semana%20Tres/imagenes/inicio-springmvc.jpeg)
 
 ![personas](https://github.com/AsaelMarcial/AcademiaJavaXideral/blob/main/Semana%20Tres/imagenes/listapersonas-springmvc.jpeg)
 
 ![vehiculos](https://github.com/AsaelMarcial/AcademiaJavaXideral/blob/main/Semana%20Tres/imagenes/vehiculos-springmvc.jpeg)
+
+
 
 ## Spring Batch
 
